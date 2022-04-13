@@ -185,7 +185,7 @@ elif (len(argv) > 1 and argv[1].lower() in ['-t', '--truncate']):
 else:
     print('Usage:')
     print('python main.py {option} [args]')
-    print('If you are using COPM from IDLE respond to the prompt (> ) using the following commands, but excluding the - or --, and do not include args.)
+    print('If you are using COPM from IDLE respond to the prompt (> ) using the following commands, but excluding the - or --, and do not include args.')
     print('')
     print('Options:')
     print('-l --list              List registered accounts.')
